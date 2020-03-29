@@ -1,0 +1,22 @@
+src
+   app
+     Admin Login
+      adminLogin.component.ts/html/.css
+      admin.service.ts
+      model?
+     userSignin 
+       userSignin.component.ts/html/.css
+      userSignin.service.ts
+      model?
+  user
+    user  
+    userSignup.component.ts/html/.css
+    user-roster
+    userRoster.component.ts/html/.css
+  shared
+     user.service.ts
+     user.model.ts
+  app.module.ts (config firebase connection)
+  environments
+    environments.ts(saved firebase connection details)
+index.html
